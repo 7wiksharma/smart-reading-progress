@@ -1,0 +1,10 @@
+#srp-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 6px;
+    width: 0%;
+    background-color: #29e;
+    z-index: 99999;
+    transition: width 0.25s ease;
+}
